@@ -289,7 +289,7 @@ header nav .form i:hover {
     position: relative;
     min-height: 100vh;
     background-color: #38393c;
-    background-image: url(/Images/img-1.jpg);
+    background-image: url("../Images/img-1.jpg");
     background-size: cover;
 }
 
@@ -490,7 +490,7 @@ header nav .form i:hover {
 /* Start Why_Choose_Us */
 
 .design-01 {
-    background-image: url("/Images/img-2.jpg");
+    background-image: url("../Images/img-2.jpg");
     background-size: cover;
     height: 500px;
     position: relative;
