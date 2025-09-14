@@ -1149,7 +1149,7 @@ header nav .form i:hover {
 
 .specials .combo .head {
     padding: 40px 20px;
-    border-top: solid 2px var(--main-color);
+    border-top: solid 1px var(--main-color);
     border-bottom: solid 1px var(--main-color);
 }
 
