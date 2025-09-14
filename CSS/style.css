@@ -1150,7 +1150,7 @@ header nav .form i:hover {
 .specials .combo .head {
     padding: 40px 20px;
     border-top: solid 2px var(--main-color);
-    border-bottom: solid 2px var(--main-color);
+    border-bottom: solid 1px var(--main-color);
 }
 
 .specials .combo .head h3 {
@@ -1185,7 +1185,7 @@ header nav .form i:hover {
 }
 
 .specials .combo ul {
-    border-bottom: 2px solid var(--main-color);
+    border-bottom: 1px solid var(--main-color);
 }
 
 .specials .combo ul li {
@@ -1200,7 +1200,7 @@ header nav .form i:hover {
     left: 50%;
     transform: translateX(-50%);
     width: 120px;
-    height: 2px;
+    height: 1px;
     background-color: var(--main-color);
 }
 
