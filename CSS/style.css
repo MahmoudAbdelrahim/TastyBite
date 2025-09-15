@@ -1,4 +1,5 @@
 /* Start Variables */
+
 :root {
     --main-color: orange;
     --second-color: white;
@@ -9,6 +10,7 @@
 /* End Variables */
 
 /* Start Global Rules */
+
 * {
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -148,7 +150,6 @@ header {
     display: block;
     width: fit-content;
     margin: 50px auto 0;
-    /* text-transform: uppercase; */
     transition: 0.3s;
 }
 
@@ -293,6 +294,7 @@ header nav .form i:hover {
 /* End Header  */
 
 /* Start Landing */
+
 .landing {
     position: relative;
     min-height: 100vh;
@@ -694,6 +696,7 @@ header nav .form i:hover {
 /* End Dishes */
 
 /* Start Video */
+
 .vid-sec {
     position: relative;
     margin: 0 0 50px;
@@ -909,7 +912,6 @@ header nav .form i:hover {
 /* End Stats */
 
 /* Start Feedback-Section */
-
 
 .feedback-section .container {
     display: flex;
@@ -1130,6 +1132,7 @@ header nav .form i:hover {
 }
 
 /* End Quote  */
+
 /* Start Specials */
 
 .specials {
@@ -1218,6 +1221,7 @@ header nav .form i:hover {
 }
 
 /* End Specials */
+
 /* Start Subscribe */
 
 .subscribe {
